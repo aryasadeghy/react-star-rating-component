@@ -1,6 +1,6 @@
 {
   "name": "react-star-rating-component-unsafe",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "React component for star (or any other icon based) ratings",
   "main": "index.js",
   "scripts": {

@@ -1,4 +1,4 @@
-# react-star-rating-component
+# react-star-rating-component-unsafe
 
 [![npm version](http://badge.fury.io/js/react-star-rating-component.svg)](http://badge.fury.io/js/react-star-rating-component)
 [![Dependency Status](http://david-dm.org/voronianski/react-star-rating-component.svg)](http://david-dm.org/voronianski/react-star-rating-component)
@@ -9,12 +9,12 @@
 ## Install
 
 ```bash
-npm install react-star-rating-component --save
+npm install react-star-rating-component-unsafe --save
 ```
 
 ## Demo
 
-[<img src="https://image.ibb.co/d9VFZb/Basic_React_Component_For_Star_Ratings.gif" width="600" />](http://voronianski.github.io/react-star-rating-component/example)
+[<img src="https://image.ibb.co/d9VFZb/Basic_React_Component_For_Star_Ratings.gif" width="600" />](http://voronianski.github.io/react-star-rating-component-unsafe/example)
 
 ## Props
 
@@ -41,7 +41,7 @@ npm install react-star-rating-component --save
 ```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import StarRatingComponent from 'react-star-rating-component';
+import StarRatingComponent from 'react-star-rating-component-unsafe';
 
 class App extends React.Component {
   constructor() {
@@ -111,7 +111,7 @@ ReactDOM.render(
 );
 ```
 
-Check more in [examples folder](https://github.com/voronianski/react-star-rating-component/tree/master/example).
+Check more in [examples folder](https://github.com/voronianski/react-star-rating-component-unsafe/tree/master/example).
 
 ---
 
